@@ -1,2 +1,2 @@
-# thesiswork
-Thesiswork
+# Thesis Construction Sample System Monitor
+
